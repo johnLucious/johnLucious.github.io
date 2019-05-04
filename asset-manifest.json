@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b0a56bf.chunk.css",
+    "main.js": "/static/js/main.9892ecf7.chunk.js",
+    "main.js.map": "/static/js/main.9892ecf7.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.1f156bdb.chunk.css": "/static/css/2.1f156bdb.chunk.css",
+    "static/js/2.ba39a63c.chunk.js": "/static/js/2.ba39a63c.chunk.js",
+    "static/js/2.ba39a63c.chunk.js.map": "/static/js/2.ba39a63c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b6e2ad2baa2b79e9220fed4e90a54857.js": "/precache-manifest.b6e2ad2baa2b79e9220fed4e90a54857.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1f156bdb.chunk.css.map": "/static/css/2.1f156bdb.chunk.css.map",
+    "static/css/main.1b0a56bf.chunk.css.map": "/static/css/main.1b0a56bf.chunk.css.map",
+    "static/media/face-recognition.jpg": "/static/media/face-recognition.3815a9ca.jpg",
+    "static/media/me.jpg": "/static/media/me.7e9b4597.jpg",
+    "static/media/visual-studio.png": "/static/media/visual-studio.ee57e66e.png"
+  }
+}
